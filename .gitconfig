@@ -1,0 +1,13 @@
+[user]
+	name = Aminu Ndakun
+	email = amin4712@gmail.com
+[sendemail]
+	from = Aminu Ndakun <amin4712@gmail.com>
+    	smtpserver = smtp.gmail.com
+    	smtpserversort = 587
+    	smtpencryption = tls
+    	smtpuser = amin4712@gmail.com
+    	# (Optional: we'll leave this commented out and use a different way)
+    	# smtppass = wtoegydazxdntjuq
+[credential]
+    	helper = store	
